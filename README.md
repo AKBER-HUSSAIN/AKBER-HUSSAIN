@@ -4,7 +4,7 @@
 
 <a href="https://github.com/AKBER-HUSSAIN">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+(MERN);Java+%7C+Python+%7C+JavaScript;Building+GigFinance+%26+CBIT+CanteenX;150%2B+DSA+Problems+on+LeetCode" alt="Typing SVG" />
-</a>
+</a> 
 
 <br/>
 
